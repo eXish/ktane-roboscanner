@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: roboScannerModule
+  title: Robo-Scanner
+  author: eXish
+  description: "Scan a 5\xD75 grid for the one cell none of the robots ever travel
+    to and then input the correct corresponding direction sequence. \n\nHTML: https://ktane.timwi.de/HTML/Robo-Scanner.html\nPDF:
+    https://ktane.timwi.de/PDF/Robo-Scanner.pdf\n\nRobo-Scanner (roboScannerModule)
+    v1.0.0\nModule and Concept by eXish\nTwitch Plays supported"
+  version: 1.0.0
+  outputFolder: build
+  previewImage: {fileID: 2800000, guid: af452407f7f57eb4b875c718b5bb3f2a, type: 3}
