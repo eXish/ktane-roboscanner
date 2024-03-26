@@ -17,7 +17,7 @@ MonoBehaviour:
   description: "Scan a 5\xD75 grid for the one cell none of the robots ever travel
     to and then input the correct corresponding direction sequence. \n\nHTML: https://ktane.timwi.de/HTML/Robo-Scanner.html\nPDF:
     https://ktane.timwi.de/PDF/Robo-Scanner.pdf\n\nRobo-Scanner (roboScannerModule)
-    v1.0.0\nModule and Concept by eXish\nTwitch Plays supported"
-  version: 1.0.0
+    v1.0.1\nModule and Concept by eXish\nTwitch Plays supported"
+  version: 1.0.1
   outputFolder: build
   previewImage: {fileID: 2800000, guid: af452407f7f57eb4b875c718b5bb3f2a, type: 3}
